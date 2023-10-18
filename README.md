@@ -76,6 +76,10 @@ Compress Drive
 
 Decription: the compressdrive script compress traget all the drives and compress it to free up spece for u
 
+    Usage:
+        Run the script to start compressing your drives and free up spece.
+
+ 
 Compatibility
 
 These scripts are designed to work flawlessly on all versions of Windows.
