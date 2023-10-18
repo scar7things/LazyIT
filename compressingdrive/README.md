@@ -1,3 +1,5 @@
+very cool script that compress drives and safe space on your windows
+
 Explanation:
 
     The script iterates through drive letters (C to Z).
