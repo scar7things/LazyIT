@@ -1,5 +1,15 @@
 Windows IT Automation Scripts
 
+
+
+
+
+![th-764749478](https://github.com/scar7things/LazyIT/assets/119260083/df9ffdf5-9cc1-43d0-bbfe-33a754f7f4f5)
+
+
+
+
+
 A collection of handy scripts to automate various IT tasks on Windows systems. These scripts are designed to work seamlessly across different Windows versions.
 Scripts Included
 LazyITChecker
