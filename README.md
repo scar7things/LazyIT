@@ -72,6 +72,14 @@ Description: The SecurityScan script initiates a full security scan on a Windows
     Usage:
         Run the script to start a full security scan on the system.
 
+Compress Drive
+
+Decription: the compressdrive script compress traget all the drives and compress it to free up spece for u
+
+    Usage:
+        Run the script to start compressing your drives and free up spece.
+
+ 
 Compatibility
 
 These scripts are designed to work flawlessly on all versions of Windows.
